@@ -2,10 +2,10 @@
 Data Science Projects Overview
 
 # [Project: Viacom ‘s Media Campaign Data Analysis](https://ktr8.github.io/Kamiya_Portfolio/)
-*Analyzed custom audience, lookalike audience data and used ML algorithm deicion tree to predict if ad is good performing or bad performing with 97% accuracy
-•Identified audience that have been most successful in past in terms of click, impression, ctr and cost for ad campaign
-•Discovered attributes of audiences that helped the company to increase their reach and engagement 
-•Measured Traffic metrics which includes measuring clicks, impressions, engagement, click-through rate 
+Analyzed custom audience, lookalike audience data and used ML algorithm deicion tree to predict if ad is good performing or bad performing with 97% accuracy
+Identified audience that have been most successful in past in terms of click, impression, ctr and cost for ad campaign
+Discovered attributes of audiences that helped the company to increase their reach and engagement 
+Measured Traffic metrics which includes measuring clicks, impressions, engagement, click-through rate 
 
 # [Project: ConMed’s Freight Cost Analysis](https://ktr8.github.io/Kamiya_Portfolio/)
 • Developed a data-driven decision model to reduce the freight cost by analyzing inbound and outbound freight data for ocean and airline service level
