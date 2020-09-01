@@ -1,5 +1,5 @@
 # Kamiya_Portfolio
-Data Science Projects 
+Data Science Projects Overview
 
 # [Project: Viacom ‘s Media Campaign Data Analysis](https://ktr8.github.io/Kamiya_Portfolio/)
 • Analyzed custom audience, lookalike audience data and used ML algorithm deicion tree to predict if ad is good performing or bad performing with 97% accuracy
