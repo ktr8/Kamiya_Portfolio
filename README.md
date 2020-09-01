@@ -8,9 +8,9 @@ Data Science Projects Overview
 - Measured Traffic metrics which includes measuring clicks, impressions, engagement, click-through rate 
 
 # [Project: ConMed’s Freight Cost Analysis](https://ktr8.github.io/Kamiya_Portfolio/)
-• Developed a data-driven decision model to reduce the freight cost by analyzing inbound and outbound freight data for ocean and airline service level
-• Recommended best days to send shipment helping company save transportation cost up to 50%
+- Developed a data-driven decision model to reduce the freight cost by analyzing inbound and outbound freight data for ocean and airline service level
+- Recommended best days to send shipment helping company save transportation cost up to 50%
 
 # [Project: Big Mart stores Sales Prediction](https://ktr8.github.io/Kamiya_Portfolio/)
-• Built a predictive model using linear regression to predict the sales of products at different store locations to save the inventory cost
-• Performed analysis of diverse outlet properties to improve services at various stores and increase the revenue channels
+- Built a predictive model using linear regression to predict the sales of products at different store locations to save the inventory cost
+- Performed analysis of diverse outlet properties to improve services at various stores and increase the revenue channels
